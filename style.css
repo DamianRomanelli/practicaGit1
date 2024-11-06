@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(#000000 20%, #ff0000);
+    background-repeat: no-repeat;
+    height: 100% ;
+    margin: 0;
+    background-attachment: fixed;
+}
+
+
+p{
+    text-align: justify;
+    font-size: 160% ;
+    color: rgb(236, 255, 253);
+    margin: 50px;
+    padding: 20px 20px 0px 0px;
+    border-bottom: 2px  solid rgb(185, 185, 185) ;
+}
+
+
+.btn {
+    display: inline-block;
+    background-color: #eb94d0;
+    padding: 15px 35px;
+
+}
